@@ -1,7 +1,7 @@
 {
     "version"           : "4.0.1",
     "name"              : "CeresAlin",
-    "marketplaceName"   : {"de": "Ceres","en": "Ceres"},
+    "marketplaceName"   : {"de": "CeresAlin","en": "CeresAlin"},
     "description"       : "This is the official Ceres plugin developed by plentymarkets. Ceres is the default template plugin for plentymarkets 7 online stores.",
     "author"            : "plentysystems AG",
     "license"           : "AGPL-3.0",
